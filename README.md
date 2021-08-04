@@ -9,3 +9,6 @@ Requested a JSON object from the API and parse the data so that 12 employees are
 v1 completed 8/4/2021
 Used html, css, javascript including some of jQuery
 Author: Mitchell Nichols
+
+Edited css: 8/4/21
+Changed the color of modal window background to add a bit yellow to it for better focus
