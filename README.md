@@ -6,5 +6,6 @@ Used the Random User Generator API (https://randomuser.me/) to grab information 
 
 Requested a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.
 
-v1 comppleted 8/4/2021
+v1 completed 8/4/2021
 Used html, css, javascript including some of jQuery
+Author: Mitchell Nichols
